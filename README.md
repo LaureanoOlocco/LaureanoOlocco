@@ -6,29 +6,38 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laureanoolocco@gmail.com)
 
 
-Hello! I'm Laureano, an advanced Computer Engineering student at the University of Córdoba, 
+I'm Laureano, an advanced Computer Engineering student at the University of Córdoba, 
 currently beginning my studies in Computer Science to complement my education.
 Excited to continue learning, developing new skills, and advancing my professional career. Here you'll find projects 
 I'm working on throughout my academic journey.
 
 #### 🌱 Things I am currently working on: 
-- Learning and taking courses about Mechatronics and Robotics
-- Taking online courses about Data Science and Machine Learning
+- Enhancing my skills in cybersecurity, penetration testing, and vulnerability assessment
+- Conducting security risk analysis and implementing forensic evidence collection techniques
+- Developing expertise in ASIC verification and firmware development
+- Exploring digital circuit design and hardware systems optimization
 
 
-#### :computer: Programming languages and tools: 
+#### :computer: Programming Languages and Tools  
+
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LaureanoOlocco&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LaureanoOlocco&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
+  
+  <!-- Programming Languages -->
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+ 
+  
+  <br>
 
-<code><img width="5%" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<br />
-<code><img width="5%" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<br />
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <!-- Tools & Technologies -->
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+  <code><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"></code>
+
+  
 </p>
+
