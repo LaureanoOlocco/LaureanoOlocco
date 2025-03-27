@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laureanoolocco@gmail.com)
 
 
-I'm Laureano, an advanced Computer Engineering student at the University of Córdoba, 
+I'm Laureano, an Senior year Computer Science student at the University of Córdoba, 
 currently beginning my studies in Computer Science to complement my education.
 Excited to continue learning, developing new skills, and advancing my professional career. Here you'll find projects 
 I'm working on throughout my academic journey.
