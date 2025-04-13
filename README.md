@@ -19,7 +19,7 @@ This space is my digital logbook to document academic quests and tech conquests.
 
 ### 🔥 Current Missions in Progress:
 - 🛡️ Mastering the dark arts of cybersecurity, penetration testing, and vulnerability assessment  
-- 💥 Sharpening my skills as an Exploit Developer — crafting payloads, and mastering low-level attacks  
+- 💥 Sharpening my skills as an Exploit Developer — understanding vulnerabilities, crafting payloads, and mastering low-level attacks  
 - 💻 Conquering ASIC verification and firmware development  
 - ⚙️ Exploring digital circuit design and hardware systems optimization  
 
@@ -27,10 +27,9 @@ This space is my digital logbook to document academic quests and tech conquests.
 
 ### 💫 Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaureanoOlocco&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight&title_color=FF5555&icon_color=FF5555&text_color=FFAAAA&bg_color=000000" height="180" style="display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaureanoOlocco&layout=compact&theme=tokyonight&title_color=FF5555&text_color=FFAAAA&bg_color=000000" height="180" style="display: inline-block;"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaureanoOlocco&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="LaureanoOlocco" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LaureanoOlocco&show_icons=true&theme=highcontrast&locale=en" alt="LaureanoOlocco" /></p>
 
 ---
 
