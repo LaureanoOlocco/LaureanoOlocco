@@ -27,9 +27,9 @@ This space is my digital logbook to document academic quests and tech conquests.
 
 ### 💫 Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaureanoOlocco&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="LaureanoOlocco" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaureanoOlocco&show_icons=true&theme=highcontrast&locale=en&layout=compact&title_color=FF5555&icon_color=FF5555&text_color=FFAAAA&bg_color=000000" alt="LaureanoOlocco" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LaureanoOlocco&show_icons=true&theme=highcontrast&locale=en" alt="LaureanoOlocco" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LaureanoOlocco&show_icons=true&theme=highcontrast&locale=en&title_color=FF5555&icon_color=FF5555&text_color=FFAAAA&bg_color=000000" alt="LaureanoOlocco" /></p>
 
 ---
 
