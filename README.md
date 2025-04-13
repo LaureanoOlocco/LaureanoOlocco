@@ -19,7 +19,7 @@ This space is my digital logbook to document academic quests and tech conquests.
 
 ### 🔥 Current Missions in Progress:
 - 🛡️ Mastering the dark arts of cybersecurity, penetration testing, and vulnerability assessment  
-- 💥 Sharpening my skills as an Exploit Developer — understanding vulnerabilities, crafting payloads, and mastering low-level attacks  
+- 💥 Sharpening my skills as an Exploit Developer — crafting payloads, and mastering low-level attacks  
 - 💻 Conquering ASIC verification and firmware development  
 - ⚙️ Exploring digital circuit design and hardware systems optimization  
 
