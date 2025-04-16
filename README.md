@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/LaureanoOlocco)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laureanoolocco)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laureanoolocco@gmail.com)
-[![CV](https://img.shields.io/badge/-Curriculum-0A0A0A?style=for-the-badge&logo=fontawesome&logoColor=white)](https://www.kickresume.com/cv/DMJXQn/)
+[![CV](https://img.shields.io/badge/-Curriculum-0A0A0A?style=for-the-badge&logo=fontawesome&logoColor=white)](www.kickresume.com/cv/MvodW1/)
 
 ---
 
