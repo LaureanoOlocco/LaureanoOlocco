@@ -1,7 +1,6 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="35px" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="105px" />
 
 ## 🌌 This is Laureano Olocco
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laureanoolocco)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laureanoolocco@gmail.com)
 [![CV](https://img.shields.io/badge/-Curriculum-1A1A1A?style=for-the-badge&logo=pagekit&logoColor=white)](https://www.kickresume.com/cv/MvodW1/)
@@ -9,7 +8,6 @@
 ---
 
 ## ⚡ Computer Engineering Student | Cybersecurity Explorer
-
 I'm Laureano, a final-year Computer Engineering student at the University of Córdoba, also diving deep into Computer Science to forge an unbreakable technical foundation.  
 My passion lies in deciphering digital mysteries, building robust systems, and taking cybersecurity to the next level.  
 This space is my digital logbook to document academic quests and tech conquests.
@@ -57,4 +55,4 @@ This space is my digital logbook to document academic quests and tech conquests.
   <code><img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="35px" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="105px" />
