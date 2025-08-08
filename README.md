@@ -15,8 +15,6 @@ This space is my digital logbook to document academic quests and tech conquests.
 ### 🔥 Current Missions in Progress:
 - 🛡️ Deepening my skills in cybersecurity and pentesting, with a focus on real-world vulnerabilities
 
-- 💣 Growing as an Exploit Developer — from payload crafting to memory corruption
-
 - 🔍 Automating reverse engineering with Ghidra, IDA Pro, and Python scripting
 
 - 🛡️ Mastering the dark arts of cybersecurity, penetration testing, and vulnerability assessment
