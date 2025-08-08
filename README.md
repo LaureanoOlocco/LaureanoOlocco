@@ -17,7 +17,7 @@ This space is my digital logbook to document academic quests and tech conquests.
 
 - 🔍 Automating reverse engineering with Ghidra, IDA Pro, and Python scripting
 
-- 🛡️ Mastering the dark arts of cybersecurity, penetration testing, and vulnerability assessment
+- 💣 Mastering the dark arts of cybersecurity, penetration testing, and vulnerability assessment
 
 - 💥 Sharpening my skills as an Exploit Developer — crafting payloads, and mastering low-level attacks
 
