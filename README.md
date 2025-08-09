@@ -39,18 +39,14 @@ This space is my digital logbook to document academic quests and tech conquests.
 
 <p align="center">
   <!-- Programming Languages -->
-  <code><img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-  <code><img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-  <code><img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash" height="45px"/>
 </p>
 
 <p align="center">
   <!-- Tools & Technologies -->
-  <code><img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-  <code><img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"></code>
-  <code><img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg"></code>
-  <code><img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <img src="https://skillicons.dev/icons?i=kali,linux,git,vscode" height="45px"/>
+  <img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="Ghidra"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="105px" />
