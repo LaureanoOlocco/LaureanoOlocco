@@ -46,7 +46,7 @@ This space is my digital logbook to document academic quests and tech conquests.
 <p align="center">
   <!-- Tools & Technologies -->
   <img src="https://skillicons.dev/icons?i=kali,linux,git,vscode" height="45px"/>
-  <img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="Ghidra"/>
+  <img height="45px" alt="ghidra" src="https://github.com/user-attachments/assets/8093101c-10e7-4cf4-affd-96d7a5a99c2d" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="105px" />
