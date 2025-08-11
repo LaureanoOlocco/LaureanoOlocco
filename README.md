@@ -8,10 +8,11 @@
 
 ---
 
-## ⚡ Computer Engineering Student | Cybersecurity & Reverse Engineering Enthusiast
-Final-year Computer Engineering student at the University of Córdoba, complementing my studies with Computer Science to build a strong technical foundation.  
-Passionate about **cybersecurity**, **reverse engineering**, and **low-level programming**.  
-This repository is my **digital logbook** where I document my academic projects, research, and technical challenges.
+## ⚡ Computer Engineering | Cybersecurity & Reverse Engineering Enthusiast
+Final-year Computer Engineering student at the University of Córdoba, complementing my degree with Computer Science to build a **solid technical foundation**.  
+
+I’m passionate about exploring the internals of systems, breaking them apart to understand how they work, and building tools to push the boundaries of cybersecurity.  
+My main focus is on **reverse engineering**, **exploit development**, and automating workflows with tools like **Ghidra**, **IDA Pro**, and custom Python scripts.
 
 ---
 
