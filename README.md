@@ -2,10 +2,7 @@
 
 # Laureano Olocco
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laureanoolocco)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laureanoolocco@gmail.com)
-[![CV](https://img.shields.io/badge/-Curriculum-1A1A1A?style=for-the-badge&logo=pagekit&logoColor=white)](https://www.kickresume.com/cv/MvodW1/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-f9e2af?style=for-the-badge&logo=terminal&logoColor=1e1e2e)](https://laureanoolocco.github.io)
+[![Website](https://img.shields.io/badge/-laureanoolocco.github.io-f9e2af?style=for-the-badge&logo=terminal&logoColor=1e1e2e)](https://laureanoolocco.github.io)
 
 ---
 
@@ -37,13 +34,5 @@ I'm drawn to the lowest levels of the stack — understanding how systems **brea
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LaureanoOlocco.LaureanoOlocco" alt="Visitors"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaureanoOlocco&show_icons=true&theme=catppuccin_mocha&title_color=f9e2af&icon_color=f9e2af&text_color=cdd6f4&bg_color=1e1e2e&border_color=f9e2af" alt="GitHub Stats"/>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="105px" />
