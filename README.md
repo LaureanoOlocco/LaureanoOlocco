@@ -2,8 +2,6 @@
 
 # [Laureano Olocco](https://laureanoolocco.github.io)
 
----
-
 ## Reverse Engineer | Detection Engineer | Systems Programmer
 
 Final-year Computer Engineering student at Universidad Nacional de Cordoba, concurrently pursuing Computer Science for a stronger theoretical foundation.
